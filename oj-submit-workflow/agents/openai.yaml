@@ -1,0 +1,4 @@
+interface:
+  display_name: "OJ Submit Workflow"
+  short_description: "Solve and submit OJ practice pages"
+  default_prompt: "Use $oj-submit-workflow to solve and submit the programming practice problems currently open in the browser."
